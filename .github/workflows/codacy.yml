@@ -1,4 +1,4 @@
-nname: Codacy CI
+name: Codacy CI
 
 on:
 
